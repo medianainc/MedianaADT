@@ -1,4 +1,10 @@
 # MedianaADT 
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/medianainc/MedianaADT/workflows/R-CMD-check/badge.svg?branch=master)](https://github.com/medianainc/MedianaADT/actions)
+[![codecov](https://codecov.io/gh/medianainc/MedianaADT/branch/master/graph/badge.svg?token=XS6YWYX8KH)](https://codecov.io/gh/medianainc/MedianaADT)
+<!-- badges: end -->
+  
 ## Adaptive Design Toolkit: Adaptive designs commonly used in Phase III and seamless Phase II/III trials
 
 The MedianaADT package provides efficient simulation-based tools for adaptive designs commonly used in Phase III and seamless Phase II/III trials. The Adaptive Design Toolkit currently includes the following five modules:
